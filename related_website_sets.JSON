@@ -435,6 +435,16 @@
         "https://plejada.pl": "Special interest news website within the Ringier Axel Springer Polska media group dedicated to exclusive information, interviews, videos, and galleries from the world of show business."
       }
     },
+     {
+      "contact": "apoorva.jain@hotstar.com",
+      "primary": "https://hotstar.com",
+      "associatedSites": [
+          "https://hotstar-labs.com",
+      ],
+      "rationaleBySite": {
+           "https://hotstar-labs.com": "feature env service end point for testing features",
+      }
+    },
     {
        "contact": "dacostaylara@elpais.com.uy",
        "primary": "https://elpais.com.uy",
